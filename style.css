@@ -56,3 +56,9 @@ body{
     padding-bottom: 210px;
     background-color: rgb(255, 255, 119);
 }
+
+.block{
+    padding-bottom: 50;
+    margin: 20;
+    background-color: rgb(255, 255, 119);
+}
